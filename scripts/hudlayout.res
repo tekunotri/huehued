@@ -1115,7 +1115,7 @@
 		"fieldName" "HudObjectiveStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-210"
+		"xpos"	"c-101"
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
