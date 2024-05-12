@@ -51,7 +51,12 @@
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
-
+		
+		if_comp
+		{
+			"ypos"			"21"
+		}
+		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -91,6 +96,11 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
+		
+		if_comp
+		{
+			"ypos"			"45"
+		}
 	}
 	"StopWatchPointsLabel"
 	{
@@ -110,6 +120,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
+		
+		if_comp
+		{
+			"ypos"			"45"
+		}
 	}
 
 	"StopWatchLabel"
@@ -130,6 +145,11 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"1"
+		
+		if_comp
+		{
+			"ypos"			"25"
+		}
 	}
 
 	"HudStopWatchDescriptionBG"
@@ -173,5 +193,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
+		
+		if_comp
+		{
+			"wide"			"0"
+		}
 	}
 }

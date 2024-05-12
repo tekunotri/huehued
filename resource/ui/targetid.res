@@ -23,8 +23,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"
 	}
 	"TargetIDBG_Spec_Blue"
 	{
@@ -45,8 +45,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"
 	}
 	"TargetIDBG_Spec_Red"
 	{
@@ -67,8 +67,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"
 	}
 
 	"TargetNameLabel"
@@ -118,7 +118,7 @@
 		"fieldName"		"TargetDataLabel"
 		"font"			"ScoreboardVerySmall"
 		"xpos"			"61"
-		"ypos"			"19"
+		"ypos"			"21"
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"15"
@@ -128,7 +128,7 @@
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
 		"fgcolor"		"Garm3nHUDWhite"
-		"textAlignment"		"Left"
+		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}

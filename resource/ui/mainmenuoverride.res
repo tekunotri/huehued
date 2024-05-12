@@ -2396,4 +2396,14 @@
 			"bgcolor_override"	"0 0 0 175"
 		}
 	}
+
+	"MenuThumbMissingFix"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"MenuThumbMissingFix"
+		"xpos"										"9999"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../vgui/maps/menu_thumb_missing"
+	}
 }
