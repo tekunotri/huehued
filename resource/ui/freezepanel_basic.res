@@ -1,4 +1,4 @@
-#base "itempanel.res"
+#base "HudInspectPanel.res"
 "Resource/UI/FreezePanel_Basic.res"
 {
 	"itempanel"
